@@ -1,4 +1,6 @@
-# A-dataset-for-residential-buildings-energy-consumption-with-statistical-and-machine-learning-analysi
+# A-dataset-for-residential-buildings-energy-consumption-with-statistical-and-machine-learning-analysis
+Created by Dr. Abdulbasit Almhafdy - Department of Architecture, College of Architecture and Planning, Qassim University, Buraydah, Saudi Arabia (email: a.almhafdy@qu.edu.sa)
+
 A dataset for residential buildings energy consumption with statistical and machine learning analysis
 
 We present a new dataset for energy consumption of residential buildings and examines the impact of residential buildings’ eight input variables (Building Size, Floor Height, Glazing Area, Wall Area, window to wall ratio (WWR), Win Glazing U-value, Roof U-value, and External Wall U-value) on the heating load (HL) and cooling load (CL) output variables. 
